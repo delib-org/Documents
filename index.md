@@ -1,7 +1,7 @@
 ## Vision
 DELIB | The Institute for Deliberative Democracy research group is developing systems and methods out of a desire to bring people and opinions closer, to function as group while keeping their individuality. 
 
-### The instituteגs activities are carried out on three levels.
+### The institute's activities are carried out on three levels.
 1. Deliberation research and theory.
 2. Devising effective methods.
 3. Developing software. 
