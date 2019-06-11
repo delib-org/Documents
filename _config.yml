@@ -2,13 +2,13 @@ title: Delib Blog
 author: Delib Member
 email: info@tempdomain.com
 description: > # this means to ignore newlines until "baseurl:"
-Visiom
+Vision
 The Institute for Deliberative Democracy research group is developing systems and methods out of a desire to bring people and opinions closer, to function as group while keeping their individuality.
 The institute's activities are carried out on three levels.
 
-    Deliberation research and theory.
-    Devising effective methods.
-    Developing software.
+ 1. Deliberation research and theory.
+ 2. Devising effective methods.
+ 3. Developing software.
 
 # social links
 twitter_username: twitter-handle
