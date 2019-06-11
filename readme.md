@@ -1,5 +1,10 @@
-## Vision
-DELIB | The Institute for Deliberative Democracy research group is developing systems and methods out of a desire to bring people and opinions closer, to function as group while keeping their individuality. 
+ This site is published at https://delib-org.github.io/Documents/
+#
+
+
+#DELIB 
+## Our Vision
+The Institute for Deliberative Democracy research group is developing systems and methods out of a desire to bring people and opinions closer, to function as group while keeping their individuality. 
 
 ### The institute's activities are carried out on three levels.
 1. Deliberation research and theory.
