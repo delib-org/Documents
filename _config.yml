@@ -1,0 +1,14 @@
+title: Delib Blog
+author: Delib Member
+email: info@tempdomain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Delib is an opensource community project aiming to expand and facilitate social programs
+  all around the globe. Delib members are dedicated to sharing community programs and best
+  practices. Find us on github and come share your knowledge with other Delib members.
+# social links
+twitter_username: twitter-handle
+github_username:  github-handle
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
+theme: jekyll-theme-tactile
